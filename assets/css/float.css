@@ -7,12 +7,19 @@
 section {
     float: left;
 }
-  
+
 article {
-    float: inline-end;
+    float: none;
 }
   
 aside {
     float: left;
 }
+
+h1 {
+    float: none;
+}
   
+p{
+    float: none;
+}

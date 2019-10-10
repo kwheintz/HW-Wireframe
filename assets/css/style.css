@@ -8,60 +8,55 @@ body {
     background: #777;
     width: 960px;
     font-size: 18px;
-    align-content: center;
 }
   
 .container {
     margin: 0 auto;
     width: 960px;
     color: #777;
-    align-content: center;
     text-align: center;
 }
   
 header {
     background: #ebebeb;
     height: 100px;
-    padding: 10px;
+    padding: 35px;
     align-content: center;
     border-top: 4px solid #777;
-    border-bottom: 12px solid #777;
-    border-right: 12px solid #777;
-    border-left: 12px solid #777;
+    border-bottom: 4px solid #777;
+    border-right: 10px solid #777;
+    border-left: 10px solid #777;
 }
   
 nav {
     background: #ebebeb;
     height: 100px;
-    padding: 10px;
-    border: 12px solid #777;
+    padding: 30px;
+    border: 10px solid #777;
     align-content: center;
 }
   
 aside {
     background-color: #ebebeb;
     width: 465px;
-    height: 350px;
-    padding: 10px;
-    border: 12px solid #777;
+    height: 360px;
+    border: 10px solid #777;
     text-align: center;
 }
   
 section {
     background-color: #ebebeb;
     width: 495px;
-    height: 350px;
-    padding: 10px;
-    border: 12px solid #777;
+    height: 360px;
+    border: 10px solid #777;
     text-align: center;
 }
   
 article {
     background-color: #777;
-    width: 700px;
-    height: 350px;
-    padding: 10px;
-    border: 1px solid #ebebee;
+    width: 475px;
+    height: 280px;
+    border: 15px solid #ebebee;
     text-align: center;
     color: #ebebeb
 }
@@ -69,7 +64,40 @@ article {
 footer {
     background-color: #ebebeb;
     height: 100px;
-    padding: 10px;
-    border: 12px solid #777;
+    border: 10px solid #777;
+    padding: 30px;
 }
-  
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+h2 {
+    background-color: #ebebeb;
+    width: 445px;
+    height: 100px;
+    text-align: center;
+    color: #777;
+    border-top: 0px solid #777;
+    border-bottom: 20px solid #777;
+    border-right: 20px solid #777;
+    border-left: 20px solid #777;
+    padding: 25px;
+    margin: 0px;
+}
+
+p {
+    background-color: #ebebeb;
+    width: 445px;
+    height: 100px;
+    text-align: center;
+    color: #777;
+    border-top: 0px solid #777;
+    border-bottom: 20px solid #777;
+    border-right: 20px solid #777;
+    border-left: 20px solid #777;
+    padding: 25px;
+    margin: 0px;
+}
