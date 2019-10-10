@@ -3,7 +3,11 @@
     display: block;
     clear: both;
 }
-  
+
+body {
+    float: center;
+}
+
 section {
     float: left;
 }
